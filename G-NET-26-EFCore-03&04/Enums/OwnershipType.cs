@@ -8,7 +8,7 @@ namespace G_NET_26_EFCore_03_04.Enums
 {
     public enum OwnershipType
     {
-        PrimaryHolder ,
+        Primary,
         CoHolder
     }
 }
